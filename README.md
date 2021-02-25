@@ -1,5 +1,5 @@
 # air_temperatue
-Explore the relations between various measured air temperature metrics.
+Explores the relations between various measured air temperature metrics using python.
 
 ## Libraries Used
 #os
